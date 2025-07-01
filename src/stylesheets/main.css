@@ -2,11 +2,28 @@
 
 
 body{
-    background-color: bisque;
+    background-color: #bed6c5;
     color: black;
     font-family: sans-serif;
 }
 
 h1{
     text-align: center;
+}
+
+header{
+    padding: 3em;
+    color: #80b9ba;
+}
+h2{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+header{
+    color: #000000;
+}
+header, footer{
+    background-color: #80b9ba;
 }
